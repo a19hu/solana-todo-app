@@ -1,6 +1,6 @@
 import * as anchor from "@coral-xyz/anchor";
 import { Program } from "@coral-xyz/anchor";
-import { SolanaTodoApp } from "../target/types/solana_todo_app";
+import { SolanaTodoApp } from "../target/types/hello_anchor";
 
 describe("solana-todo-app", () => {
   // Configure the client to use the local cluster.
